@@ -1,7 +1,9 @@
 # Kaggle-Santander-Value-Prediction-Challenge
 This repository contains codes and results for Santander value prediction challenge of Kaggle
+
 Link to the competition: 
 https://www.kaggle.com/c/santander-value-prediction-challenge
+
 Link to my Kaggle page:
 https://www.kaggle.com/minjielu
 
